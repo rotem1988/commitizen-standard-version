@@ -9,15 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "commit": "git-cz",
-    "release": "standard-version",
-    "standard-version": {
-      "scripts": {
-        "postchangelog": "replace 'https://github.com/myproject/issues/' 'https://myjira/browse/' CHANGELOG.md"
-        "skip": {
-          "bump": true
-        }
-      }
-    }
+    "release": "standard-version --skip.bump"
   },
   "private": true,
   "dependencies": {
