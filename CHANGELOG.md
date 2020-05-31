@@ -2,6 +2,38 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.2.0](https://github.com/rotem1988/commitizen-standard-version/compare/v3.1.0...v3.2.0) (2020-05-31)
+
+
+### Features
+
+* **lib:** lib refector ([37ce680](https://github.com/rotem1988/commitizen-standard-version/commit/37ce6800d0471e965d29e2ebe9c1b5b1450a131b))
+
+
+### Bug Fixes
+
+* **component:** bug in menu ([884298a](https://github.com/rotem1988/commitizen-standard-version/commit/884298a842ce6829722f205f1429068a7ae23b18))
+
+
+### Performance Improvements
+
+* **dockerfile:** imporove preformence in docker ([717782c](https://github.com/rotem1988/commitizen-standard-version/commit/717782c66fb5b8e83f17512bd3b682ed7ae5fc51))
+
+
+### Build System
+
+* **jenkinsfile:** change in ci ([3074423](https://github.com/rotem1988/commitizen-standard-version/commit/307442324afb7a40ed944c237f2d8339d95e45f2))
+
+
+### Docs
+
+* **doc:** change in docs ([018ebcd](https://github.com/rotem1988/commitizen-standard-version/commit/018ebcd4687c1dd7bef525b481791ac73ae8f4e7))
+
+
+### Styling
+
+* **component:** style change ([edc84e7](https://github.com/rotem1988/commitizen-standard-version/commit/edc84e725a31f268ec02ded380dd016c64c5b4c4))
+
 ## [3.1.0](https://github.com/rotem1988/commitizen-standard-version/compare/v3.0.0...v3.1.0) (2020-05-31)
 
 
