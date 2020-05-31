@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/rotem1988/commitizen-standard-version/compare/v3.0.0...v3.1.0) (2020-05-31)
+
+
+### Features
+
+* **ap compnent:** change in homepage ([3eb8cd9](https://github.com/rotem1988/commitizen-standard-version/commit/3eb8cd915b196cc185f9549e78ea13142ca6c7cc))
+
+
+### Tests
+
+* **test compnent:** added tets ([079f6af](https://github.com/rotem1988/commitizen-standard-version/commit/079f6af2db4b758884386186fd4224263d66ffa7))
+
 ## [3.0.0](https://github.com/rotem1988/commitizen-standard-version/compare/v2.0.2...v3.0.0) (2020-05-31)
 
 
