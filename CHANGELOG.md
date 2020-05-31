@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.1](https://github.com/rotem1988/commitizen-standard-version/compare/v2.0.0...v2.0.1) (2020-05-31)
+
+
+### Docs
+
+* **גםב:** doc ([d5fe641](https://github.com/rotem1988/commitizen-standard-version/commit/d5fe641924d65c76bf81bba6b11a257d2b00a2ea))
+
 ## [2.0.0](https://github.com/rotem1988/commitizen-standard-version/compare/v1.1.0...v2.0.0) (2020-05-31)
 
 
