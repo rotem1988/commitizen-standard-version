@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/rotem1988/commitizen-standard-version/compare/v1.1.0...v2.0.0) (2020-05-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ap component html:** change
+
+### Features
+
+* **ap component html:** very small change ([4fef620](https://github.com/rotem1988/commitizen-standard-version/commit/4fef62060a2c54f4fe5190de88b39ae527cf6490))
+
 ## [1.1.0](https://github.com/rotem1988/commitizen-standard-version/compare/v1.0.0...v1.1.0) (2020-05-31)
 
 
