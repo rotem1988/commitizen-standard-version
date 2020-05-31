@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.2](https://github.com/rotem1988/commitizen-standard-version/compare/v2.0.1...v2.0.2) (2020-05-31)
+
+
+### Others
+
+* **other:** other change ([2d80513](https://github.com/rotem1988/commitizen-standard-version/commit/2d80513f28223fa1d8d06077f0a03fb8ce28a1a8))
+
+
+### Tests
+
+* **test:** added test to app ([29ba78b](https://github.com/rotem1988/commitizen-standard-version/commit/29ba78b92deb7f29f3452a771d6e07af606af52e))
+
 ### [2.0.1](https://github.com/rotem1988/commitizen-standard-version/compare/v2.0.0...v2.0.1) (2020-05-31)
 
 
