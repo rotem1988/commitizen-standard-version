@@ -1,6 +1,6 @@
 {
   "name": "commitizen-standard-version",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "commit": "git-cz",
-    "release": "standard-version --skip.bump"
+    "release": "standard-version"
   },
   "private": true,
   "dependencies": {
