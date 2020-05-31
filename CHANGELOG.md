@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/rotem1988/commitizen-standard-version/compare/v0.1.0...v0.2.0) (2020-05-31)
+
+
+### ⚠ BREAKING CHANGES
+
+* **versionrc:** very importent chanfe
+* **.versionrc:** not all type of commits will be added to changelog
+
+### Features
+
+* **versionrc:** chaged configuration ([39be5d4](https://github.com/rotem1988/commitizen-standard-version/commit/39be5d4d8a92efcc8882a38e6b150719aec9bfee))
+
+
+### CI
+
+* **.versionrc:** change some hidden properties in versionrc json ([bab2f6a](https://github.com/rotem1988/commitizen-standard-version/commit/bab2f6a5b03771ccbeb79bbb905b14ac108762b8))
+
 ## [0.1.0](https://github.com/rotem1988/commitizen-standard-version/compare/v0.0.1...v0.1.0) (2020-05-28)
 
 
