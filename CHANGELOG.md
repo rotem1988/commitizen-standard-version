@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](https://github.com/rotem1988/commitizen-standard-version/compare/v3.2.1...v3.3.0) (2020-06-01)
+
+
+### Features
+
+* **component:** new feature ([3e993e9](https://github.com/rotem1988/commitizen-standard-version/commit/3e993e96fab8e98aee39ed346264f9a61bd324d9))
+
 ### [3.2.1](https://github.com/rotem1988/commitizen-standard-version/compare/v3.2.0...v3.2.1) (2020-05-31)
 
 
